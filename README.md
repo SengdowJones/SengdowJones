@@ -1,7 +1,4 @@
 <h3>🌱 Sengdao Inthavong (he/him/his) 
-
-<h4> <a href="https://sinthavong.studio">Website</a> • <a href="https://observablehq.com/@sengdowjones">ObservableHQ</a></h4>
-
 <!--
 **SengdowJones/SengdowJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
