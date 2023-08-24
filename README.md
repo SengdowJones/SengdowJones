@@ -1,4 +1,12 @@
-<h3>🌱 Sengdao Inthavong (he/him/his) 
+<h3>🌱 Sengdao Inthavong (@SengdowJones) </h3>
+
+Sengdao is a senior at Northwestern University studying Computer Science who is driven by an adoration for software engineering, design, and soccer. Winner of the 2022 Northwestern Data Visualization Contest, they interned as a Software Engineer Intern at JPMorgan Chase in Summer 2023. 
+
+Here are some projects they are most proud of:
+
+- 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** - A no-code tool to quickly create and deploy smart contracts to the blockchain. 2nd Runner-up at **Hack with Google 2023 - Chicago**.
+- 🎓 **[Office Hourly](https://github.com/rakermanfoundation/office-hourly)** - A collaborative platform with tailored features to help streamline the office hours experience. Best Technology Award at **WildHacks 2023**.
+
 <!--
 **SengdowJones/SengdowJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
