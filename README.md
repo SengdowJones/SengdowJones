@@ -7,6 +7,8 @@ Here are some projects they are most proud of:
 - 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** - A no-code tool to quickly create and deploy smart contracts to the blockchain. 2nd Runner-up at **Hack with Google 2023 - Chicago**.
 - 🎓 **[Office Hourly](https://github.com/rakermanfoundation/office-hourly)** - A collaborative platform with tailored features to help streamline the office hours experience. Best Technology Award at **WildHacks 2023**.
 
+**Let's connect on [Linkedin](https://www.linkedin.com/in/sengdao-inthavong/)!**
+
 <!--
 **SengdowJones/SengdowJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
