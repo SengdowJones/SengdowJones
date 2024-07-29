@@ -6,7 +6,7 @@ Here are some projects they are most proud of:
 
 - 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** - A no-code tool to quickly create and deploy smart contracts to the blockchain. 2nd Runner-up at **Hack with Google 2023 - Chicago**.
 - 🎓 **[Office Hourly](https://github.com/rakermanfoundation/office-hourly)** - A collaborative platform with tailored features to help streamline the office hours experience. Best Technology Award at **WildHacks 2023**.
-- 💤 **[SleepCat](https://www.figma.com/design/2DXttcOfwTvvgsalFSX2mI/Assignments?node-id=119-52&t=4aIx9aeDCFwtD7y2-1)** - A monitoring app that helps users get motivated about their healthy sleep schedules.
+- 💤 **[SleepCat](https://www.figma.com/design/2DXttcOfwTvvgsalFSX2mI/Assignments?node-id=119-52&t=4aIx9aeDCFwtD7y2-1)** - A wireframe design for a monitoring app that helps users get motivated about their healthy sleep schedules.
 
 <!--
 **SengdowJones/SengdowJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
