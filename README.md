@@ -1,6 +1,6 @@
 <h3>🌱 Sengdao Inthavong (@SengdowJones) </h3>
 
-Sengdao is a senior at Northwestern University studying Computer Science who is driven by an adoration for software engineering, design, and soccer. Winner of the 2022 Northwestern Data Visualization Contest, they interned as a Software Engineer Intern at JPMorgan Chase in Summer 2023. 
+Sengdao studied Computer Science at Northwestern University. He is driven by an adoration for software engineering, design, and soccer. Winner of the 2022 Northwestern Data Visualization Contest, they interned as a Software Engineer Intern at JPMorgan Chase in Summer 2023. 
 
 Here are some projects they are most proud of:
 
