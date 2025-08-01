@@ -1,12 +1,11 @@
 <h3>🌱 Sengdao Inthavong (@SengdowJones) </h3>
 
-Sengdao studied Computer Science at Northwestern University. He is driven by an adoration for software engineering, design, and soccer. Winner of the 2022 Northwestern Data Visualization Contest, they interned as a Software Engineer Intern at JPMorgan Chase in Summer 2023. 
+i breaks things (and make them better). check out some of my projects below:
 
-Here are some projects they are most proud of:
-
-- 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** - A no-code tool to quickly create and deploy smart contracts to the blockchain. 2nd Runner-up at **Hack with Google 2023 - Chicago**.
-- 🎓 **[Office Hourly](https://github.com/rakermanfoundation/office-hourly)** - A collaborative platform with tailored features to help streamline the office hours experience. Best Technology Award at **WildHacks 2023**.
-- 💤 **[SleepCat](https://www.figma.com/proto/2DXttcOfwTvvgsalFSX2mI/Assignments?node-id=119-420&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=119%3A52&starting-point-node-id=119%3A420)** - A wireframe design for a monitoring app that helps users get motivated about their healthy sleep schedules.
+- 💻 **[Portfolio](https://sengdao.dev)** – personal portfolio showcasing selected work and projects
+- 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** – no-code smart contracts. 2nd runner-up @ Hack with Google 2023 - Chicago.  
+- 🎓 **[Office Hourly](https://github.com/rakermanfoundation/office-hourly)** – smoother office hours. best tech @ WildHacks 2023.  
+- 💤 **[SleepCat](https://www.figma.com/proto/2DXttcOfwTvvgsalFSX2mI/Assignments?node-id=119-420&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=119%3A52&starting-point-node-id=119%3A420)** – wireframe for a sleep tracking app with actual vibes.  
 
 <!--
 **SengdowJones/SengdowJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
