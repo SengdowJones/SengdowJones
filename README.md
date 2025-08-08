@@ -1,6 +1,6 @@
 <h3>🌱 Sengdao Inthavong (@SengdowJones) </h3>
 
-i breaks things (and make them better). check out some of my projects below:
+i break things (and make them better). check out some of my projects below:
 
 - 💻 **[Portfolio](https://sengdao.dev)** – personal portfolio showcasing selected work and projects
 - 📃 **[No-Code Smart Contracts](https://github.com/ahkim3/google-hackathon-23)** – no-code smart contracts. 2nd runner-up @ Hack with Google 2023 - Chicago.  
